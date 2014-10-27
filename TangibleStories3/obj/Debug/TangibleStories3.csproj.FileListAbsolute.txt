@@ -1,0 +1,68 @@
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.csprojResolveAssemblyReference.cache
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\obj\Debug\SurfaceWindow1.baml
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\obj\Debug\App.baml
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\obj\Debug\App.g.cs
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3_Content.g.cs
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3_MarkupCompile.cache
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.g.resources
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.Properties.Resources.resources
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.csproj.GenerateResource.Cache
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\bin\Debug\Resources\icon.png
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\bin\Debug\SurfaceApplication1.xml
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\bin\Debug\TangibleStories3.exe
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\bin\Debug\TangibleStories3.pdb
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.exe
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.pdb
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.exe
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.pdb
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\bin\Debug\SurfaceApplication1.xml
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\bin\Debug\Resources\icon.png
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\bin\Debug\TangibleStories3.exe
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\bin\Debug\TangibleStories3.pdb
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.csprojResolveAssemblyReference.cache
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\obj\Debug\SurfaceWindow1.baml
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\obj\Debug\App.baml
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\obj\Debug\App.g.cs
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3_Content.g.cs
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3_MarkupCompile.cache
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.g.resources
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.Properties.Resources.resources
+C:\Users\gchuang\Documents\Visual Studio 2010\Projects\Projects\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.csproj.GenerateResource.Cache
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.exe
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.pdb
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\bin\Debug\SurfaceApplication1.xml
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\bin\Debug\Resources\icon.png
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\bin\Debug\TangibleStories3.exe
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\bin\Debug\TangibleStories3.pdb
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.csprojResolveAssemblyReference.cache
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\SurfaceWindow1.baml
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\App.baml
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\App.g.cs
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3_Content.g.cs
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3_MarkupCompile.cache
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.g.resources
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.Properties.Resources.resources
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.csproj.GenerateResource.Cache
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TagVisualization1.baml
+C:\Users\Orit\Downloads\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TagVisualization1.g.cs
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.exe
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.pdb
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\bin\Debug\Resources\icon.png
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\bin\Debug\SurfaceApplication1.xml
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\bin\Debug\TangibleStories3.exe
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\bin\Debug\TangibleStories3.pdb
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.csprojResolveAssemblyReference.cache
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\SurfaceWindow1.baml
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TagVisualization1.baml
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\App.baml
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TagVisualization1.g.cs
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\App.g.cs
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3_Content.g.cs
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3_MarkupCompile.cache
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.g.resources
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.Properties.Resources.resources
+C:\Users\Orit\Desktop\TangibleStories3\TangibleStories3\TangibleStories3\obj\Debug\TangibleStories3.csproj.GenerateResource.Cache
